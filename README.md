@@ -24,9 +24,9 @@ Testing the commands for the desired output.
 
 # COMMANDS:
 ### Create the following files file1, file2 as follows:
-```
-cat > file1
 
+cat > file1
+```
 chanchal singhvi
 c.k. shukla
 s.n. dasgupta
